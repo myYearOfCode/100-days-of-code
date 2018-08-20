@@ -133,3 +133,7 @@ output[-1]=output[-1]+char
 **Today's Progress**: 1.5h of assorted youtube videos. I wasn't feeling up to pushing more on the cs253 user login project, so I learned a bit more about unittesting in python, using pylint, I watched a class on sql injection attacks from Tim Buchalka, and I watched a video from Dan Bader on how to write clean, yet readable code.
 
 This has been a hell of a month. I've learned a ton, and worked a ton. I'll post a month recap soon!
+
+### Day 47: August 18, 2018 
+
+**Today's Progress**: 5h in! I'm back on python today, working on trying to get some old code polished up with new features. I need to get things live, then make better things, then take older things offline. If I wait for the current thing to be awesome I am going to wait a while, as I'm constantly learning and the older work always feels 'bad' in comparison. I also did an hour or two (included in the 5) of gordon Zhu's class. 
