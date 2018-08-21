@@ -137,3 +137,7 @@ This has been a hell of a month. I've learned a ton, and worked a ton. I'll post
 ### Day 47: August 18, 2018 
 
 **Today's Progress**: 5h in! I'm back on python today, working on trying to get some old code polished up with new features. I need to get things live, then make better things, then take older things offline. If I wait for the current thing to be awesome I am going to wait a while, as I'm constantly learning and the older work always feels 'bad' in comparison. I also did an hour or two (included in the 5) of gordon Zhu's class. 
+
+### Day 48: August 19, 2018 
+
+**Today's Progress**: I got a ton in tonight and this morning. 8 hours! I started and finished ud803 - Intro to Javascript on udacity. https://classroom.udacity.com/courses/ud803 I also did 30 min of Gordon Zhu's reading Javascript class.
