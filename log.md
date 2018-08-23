@@ -142,7 +142,7 @@ This has been a hell of a month. I've learned a ton, and worked a ton. I'll post
 
 **Today's Progress**: I got a ton in tonight and this morning. 8 hours! I started and finished ud803 - Intro to Javascript on udacity. https://classroom.udacity.com/courses/ud803 I also did 30 min of Gordon Zhu's reading Javascript class.
 
-### Day 49: August 20, 2018 
+### Day 49: August 21, 2018 
 
 **Today's Progress**: 2.5 hours. Today was a really mixed up day programming-wise. I did 60 min of gordon's class, 1 hours of reviewing old concepts and playing around making sample code, and half an hour of doing the 30 Day Vanilla Javascript Challenge. It felt pretty good to actually code some things. Today I did 3 of the challenges: drum machine, analog clock, and modifying css variables with js. They were all fun, and pretty simple. I started commenting in each one that showed what I learned, and I'm also trying to overcomment all of them as self-documentation. I revisited the localStorage section of Gordon's class and made examples in there. I also started on the testing section. I need to start writing tests. now. In python and in js. OH! I also went to the Boston Python meetup. Tonight was a lightning talk night, and 7 people gave 5-15 minute speeches. It was pretty cool, and gave me a lot of feedback on how I can make my presentation suck less. I talked to The organizer - Ned about it as well, so I'm going to get it polished up and he will find a week for it some time.
 
@@ -151,3 +151,7 @@ Add some features to the drum machine so that it can become a keyboard tester. p
 Figure out my notes situation. Get them in one spot that is searchable and synced across machines.
 Look into sublime text's multi line editing. It has only screwed me so far, but I can see it can be useful if you are actually trying to use it.
 
+### Day 50: August 22, 2018 
+
+**Today's Progress**:
+2 hours. I did one of the challenges (#4 - array cardio) from #Javascript30 that was mostly just watching him code and me taking notes. I still learned a bunch, but it felt less rewarding since there was very little struggle in it. I also reformatted most of my js notes into one evernote file. I've been meaning to get all of my notes in one place online so that I can access it via any computer. I'm trying out evernote for now. time will tell.
