@@ -155,3 +155,8 @@ Look into sublime text's multi line editing. It has only screwed me so far, but 
 
 **Today's Progress**:
 2 hours. I did one of the challenges (#4 - array cardio) from #Javascript30 that was mostly just watching him code and me taking notes. I still learned a bunch, but it felt less rewarding since there was very little struggle in it. I also reformatted most of my js notes into one evernote file. I've been meaning to get all of my notes in one place online so that I can access it via any computer. I'm trying out evernote for now. time will tell.
+
+### Day 51: August 23, 2018 
+
+**Today's Progress**:
+8.23 2.5h I did some of Gordon's class, a tiny bit of #javascript30 and then broke out for my own project. Time has flown by since I started actually coding though! I wrote a few tests this morning and that was actually kind of fun. Hopefully I can start doing it a bit more in the future
