@@ -160,3 +160,8 @@ Look into sublime text's multi line editing. It has only screwed me so far, but 
 
 **Today's Progress**:
 8.23 2.5h I did some of Gordon's class, a tiny bit of #javascript30 and then broke out for my own project. Time has flown by since I started actually coding though! I wrote a few tests this morning and that was actually kind of fun. Hopefully I can start doing it a bit more in the future
+
+### Day 52: August 24, 2018 
+
+**Today's Progress**:
+2h. 30m of Gordon's lesson on rebuilding filter() with tests, an hour working on an auto cut detection thing in python, and another half hour of trying to get opencv installed and looking at sublime workflow stuff. It's getting hard to stay focused on both Gordon's lessons and the Javascript30 because it feels like too much repetition (testing in Gordon's class) or spoon feeding (javascript30) I still need to learn a ton, but I'm not sure if I'm learning efficiently from either tonight.
