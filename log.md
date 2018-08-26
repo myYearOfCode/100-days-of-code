@@ -165,3 +165,8 @@ Look into sublime text's multi line editing. It has only screwed me so far, but 
 
 **Today's Progress**:
 2h. 30m of Gordon's lesson on rebuilding filter() with tests, an hour working on an auto cut detection thing in python, and another half hour of trying to get opencv installed and looking at sublime workflow stuff. It's getting hard to stay focused on both Gordon's lessons and the Javascript30 because it feels like too much repetition (testing in Gordon's class) or spoon feeding (javascript30) I still need to learn a ton, but I'm not sure if I'm learning efficiently from either tonight.
+
+### Day 53: August 25, 2018 
+
+**Today's Progress**:
+1.5h one hour of Gordon's class on building tests for the filter() and map() functions. That is getting really repetitive. At least I'm baking in what the functions do! I also did 30m of #Javascript30 Map reduce is next. fingers crossed!
