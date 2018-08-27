@@ -170,3 +170,8 @@ Look into sublime text's multi line editing. It has only screwed me so far, but 
 
 **Today's Progress**:
 1.5h one hour of Gordon's class on building tests for the filter() and map() functions. That is getting really repetitive. At least I'm baking in what the functions do! I also did 30m of #Javascript30 Map reduce is next. fingers crossed!
+
+### Day 54: August 26, 2018 
+
+**Today's Progress**:
+8.26 2h of Gordon's class. I'm over the testing section (and there is still almost three hours on his reduce tests alone!) so I skipped ahead to some code reading. I'm not sure if this would be easier / more rewarding if it was part of an 8 hour+ training day, but as it is I definitely find myself questioning if my time could be better spent learning things other than testing (after the first two or three hours) I just wrapped up the section reading underscore and it was good. Strangely though he didn't actually read any underscore. All that he read was on the search function on the underscore docs. He kept talking about reading through a ~1700 lines of code, and main.js only has ~70.
