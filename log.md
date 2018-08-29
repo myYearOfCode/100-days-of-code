@@ -175,3 +175,12 @@ Look into sublime text's multi line editing. It has only screwed me so far, but 
 
 **Today's Progress**:
 8.26 2h of Gordon's class. I'm over the testing section (and there is still almost three hours on his reduce tests alone!) so I skipped ahead to some code reading. I'm not sure if this would be easier / more rewarding if it was part of an 8 hour+ training day, but as it is I definitely find myself questioning if my time could be better spent learning things other than testing (after the first two or three hours) I just wrapped up the section reading underscore and it was good. Strangely though he didn't actually read any underscore. All that he read was on the search function on the underscore docs. He kept talking about reading through a ~1700 lines of code, and main.js only has ~70.
+### Day 55: August 27, 2018 
+
+**Today's Progress**:
+8.27 3.15 I started on freecodecamp's site today to get up to speed on css and some html. It's a nice change of pace from writing test functions. I also put in some good work on my timer app.
+### Day 56: August 28, 2018 
+
+**Today's Progress**:
+8.28 2h I finished up the freecodecamp css section and the accesibility section. I learned a lot about how to use tags and colors to make things easier for people who interface with the web in slightly different ways. I listened to a clip of a screen reader and it was mind numbingly fast! I also did a few css animation things that were pretty interesting. I'm unsure when they will really come in handy though.
+
