@@ -185,4 +185,4 @@ Look into sublime text's multi line editing. It has only screwed me so far, but 
 8.28 2h I finished up the freecodecamp css section and the accesibility section. I learned a lot about how to use tags and colors to make things easier for people who interface with the web in slightly different ways. I listened to a clip of a screen reader and it was mind numbingly fast! I also did a few css animation things that were pretty interesting. I'm unsure when they will really come in handy though.
 
 **Update - I'm still going! I just hate updating on my blog - twitter AND github**
-[check out how I'm learning to code at myYearOfCode.com](myYearOfCode.com)
+[check out how I'm learning to code at myYearOfCode.com](http://myYearOfCode.com)
