@@ -1,9 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: July 2, 2018 
+### Day 104: Oct 13, 2018 
 
-**Today's Progress**: I started the cs101 class on udemy. Tonight I finished the first lesson but not the homework. I played most of them at 2x because, well, I don't have time for 1x when I'm studying at 10:00 at night. I studied for almost 2 hours and completed 12% of the class. I also started retyping my notes to the complete python bootcamp and cleaning them up. Oh , I also started up this blog today! Lots of config and setting up, although Wordpress makes it really easy to get started. I bet I'll do some customization at some point in the future, but we will see.
- 
+**Today's Progress**: 4h Today was another Jekyll and Hyde day. I spent 2h on doing Ruby koans and 2h doing 4 js codewars questions (2, 6 and 2, 7 kyu). I definitely need to stop switching languages, and I also need to make sure that I'm getting in a good mix of learning and actual coding. I feel like I've 'learned' a lot of concepts that I can look back on my notes and not really remember much of. I need to try to blend the learning with the coding so that it sticks better.
+
+That being said I am going to try to focus on JS for the next month and then reevaluate afterwards. I could go on to react, or do some postgres, I'm not sure. I AM sure that I'm not learning much and getting all mixed up by switching between ruby and js so often.
+
+I also read an interesting article on 'Deep Focus', and I want to pay attention to my focus levels while learning. That seems like a goal (getting good focus) that will reap big dividends.
 
 ### Day 0: July 3, 2018 
 
