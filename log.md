@@ -8,6 +8,8 @@ That being said I am going to try to focus on JS for the next month and then ree
 
 I also read an interesting article on 'Deep Focus', and I want to pay attention to my focus levels while learning. That seems like a goal (getting good focus) that will reap big dividends.
 
+###Below I didn't want to flip the formatting. Newest first makes more sense, but I'm not about to reformat 40 posts. Moving on they wil be the right way.
+
 ### Day 0: July 3, 2018 
 
 **Today's Progress**: I did 3 hours of cs101. I'm on lesson 5/30. 22% done. It's covering python and its mostly beginner topics right now, but it's still good to get the fundamentals covered. Today we learned about find() in strings, string indexing, and functions. I learned that you can do boolean operators comparing alpha characters! a<b = True.
